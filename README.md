@@ -26,7 +26,7 @@ Create complete medieval villages with houses, wells, and decorations.
 
 ## Requirements
 
-- Unity 2021.3 or later
+- Unity 6.3 LTS or later
 - Universal Render Pipeline (URP)
 
 ## Version History
